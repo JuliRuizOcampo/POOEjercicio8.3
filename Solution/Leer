@@ -1,3 +1,7 @@
+InterfazFiguras es la clase main
+
+
+
 Ejercicio 8.3. Gestión de eventos
 Los usuarios realizan acciones sobre componentes de la interfaz gráfica. La
 realización de estas acciones genera eventos que deben ser procesados por
